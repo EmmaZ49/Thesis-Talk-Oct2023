@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 288 249.55" style="enable-background:new 0 0 288 249.55;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#999999;stroke-width:5;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#ED1E79;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#22B573;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#F15A24;stroke-width:3;stroke-miterlimit:10;}
+	.st4{font-family:'TimesNewRomanPS-BoldMT';}
+	.st5{font-size:12px;}
+</style>
+<line class="st0" x1="54.74" y1="61.23" x2="234.22" y2="61.23"/>
+<line class="st0" x1="144.48" y1="199.96" x2="56.71" y2="61.23"/>
+<line class="st0" x1="144.48" y1="199.96" x2="234.22" y2="61.23"/>
+<circle class="st1" cx="234.22" cy="61.23" r="32.55"/>
+<circle class="st2" cx="54.74" cy="61.23" r="37.62"/>
+<circle class="st1" cx="234.22" cy="61.23" r="37.62"/>
+<circle class="st3" cx="144" cy="199.21" r="37.62"/>
+<text transform="matrix(1 0 0 1 113.3666 202.84)" class="st4 st5">Information</text>
+<text transform="matrix(1 0 0 1 211.7216 58.0344)"><tspan x="0" y="0" class="st4 st5">Machine</tspan><tspan x="0" y="14.4" class="st4 st5">Learning</tspan></text>
+<text transform="matrix(1 0 0 1 35.1983 64.2987)" class="st4 st5">Physics</text>
+</svg>
