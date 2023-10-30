@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 400" style="enable-background:new 0 0 600 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CCECFF;stroke:#B3B3B3;stroke-width:3;}
+	.st1{fill:#CCFFCC;stroke:#B3B3B3;stroke-width:3;}
+	.st2{fill:#FFFF99;stroke:#B3B3B3;stroke-width:3;}
+	.st3{fill:#B3B3B3;stroke:#B3B3B3;stroke-width:2;}
+	.st4{fill:#B3B3B3;stroke:#B3B3B3;stroke-miterlimit:10;}
+	.st5{fill:#B3B3B3;stroke:#B3B3B3;stroke-width:2.2;stroke-linejoin:round;stroke-miterlimit:8.8;}
+	.st6{fill:#B3B3B3;stroke:#B3B3B3;stroke-linejoin:round;}
+	.st7{fill:none;stroke:#B3B3B3;stroke-width:3;}
+	.st8{fill:#B3B3B3;}
+	.st9{font-family:'TimesNewRomanPSMT';}
+	.st10{font-size:21px;}
+</style>
+<g>
+	<circle class="st0" cx="300" cy="360" r="20"/>
+	<circle class="st0" cx="300" cy="280" r="20"/>
+	<circle class="st0" cx="300" cy="200" r="20"/>
+	<circle class="st0" cx="300" cy="40" r="20"/>
+	<circle class="st0" cx="300" cy="120" r="20"/>
+</g>
+<g>
+	<circle class="st1" cx="120" cy="150" r="20"/>
+	<circle class="st1" cx="120" cy="250" r="20"/>
+	<circle class="st2" cx="480" cy="200" r="20"/>
+</g>
+<g>
+	<path class="st3" d="M140,150L280,40"/>
+	<path class="st3" d="M140,250L280,40"/>
+	<path class="st3" d="M140,150l140-30"/>
+	<path class="st3" d="M140,250l140-130"/>
+	<path class="st3" d="M140,150l140,50"/>
+	<path class="st3" d="M140,250l140-50"/>
+	<path class="st3" d="M140,150l140,130"/>
+	<path class="st3" d="M140,250l140,30"/>
+	<path class="st3" d="M140,150l140,210"/>
+	<path class="st3" d="M140,250l140,110"/>
+	<path class="st3" d="M320,40l140,160"/>
+	<path class="st3" d="M320,120l140,80"/>
+	<path class="st3" d="M320,200h140"/>
+	<path class="st3" d="M320,280l140-80"/>
+	<path class="st3" d="M320,360l140-160"/>
+	<path class="st4" d=""/>
+	<path class="st5" d="M58.62,141.13l24.04,8.84l-24.04,8.84C62.46,153.59,62.44,146.45,58.62,141.13z"/>
+	<path marker-end="url(#a)" class="st6" d="M80,150"/>
+	<path class="st4" d=""/>
+	<path class="st5" d="M543.62,191.13l24.04,8.84l-24.04,8.84C547.46,203.59,547.44,196.45,543.62,191.13z"/>
+	<path marker-end="url(#a)" class="st6" d="M565,200"/>
+	<path class="st4" d=""/>
+	<path class="st5" d="M58.62,241.13l24.04,8.84l-24.04,8.84C62.46,253.59,62.44,246.45,58.62,241.13z"/>
+	<path marker-end="url(#a)" class="st6" d="M80,250"/>
+</g>
+<line class="st7" x1="17.37" y1="149.96" x2="72.73" y2="150"/>
+<line class="st7" x1="17.37" y1="249.95" x2="72.73" y2="249.98"/>
+<line class="st7" x1="500" y1="199.95" x2="555.35" y2="199.98"/>
+<text transform="matrix(1 0 0 1 70.6377 110.0356)" class="st8 st9 st10">Input Layer</text>
+<text transform="matrix(1 0 0 1 438.8651 164.7786)" class="st8 st9 st10">Output Layer</text>
+<text transform="matrix(1 0 0 1 246.4061 14.9217)" class="st8 st9 st10">HiddenLayer</text>
+</svg>
