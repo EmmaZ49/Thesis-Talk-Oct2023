@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 248 264" style="enable-background:new 0 0 248 264;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;}
+	.st1{fill:#B3B3B3;}
+	.st2{font-family:'Times-Roman';}
+	.st3{font-size:14px;}
+	.st4{fill:#FF0000;stroke:#FF0000;}
+	.st5{fill:#FF0000;}
+	.st6{fill:#ADD8E6;stroke:#ADD8E6;}
+	.st7{fill:#ADD8E6;}
+	.st8{fill:#B3B3B3;stroke:#B3B3B3;}
+</style>
+<g id="graph1" transform="scale(1 1) rotate(0) translate(4 260)">
+	<g id="graph2">
+		<polygon class="st0" points="8,-35 8,-221 108,-221 108,-35 		"/>
+		<text transform="matrix(1 0 0 1 22.8325 -204.4)" class="st1 st2 st3">Visible Units</text>
+	</g>
+	<g id="graph3">
+		<polygon class="st0" points="128,-8 128,-248 232,-248 232,-8 		"/>
+		<text transform="matrix(1 0 0 1 144.0293 -231.4)" class="st1 st2 st3">Hidden Units</text>
+	</g>
+	<g id="node2">
+		<ellipse class="st4" cx="58" cy="-115" rx="27" ry="18.38"/>
+		<text transform="matrix(1 0 0 1 51 -111.4)" class="st5 st2 st3">v1</text>
+	</g>
+	<g id="node3">
+		<ellipse class="st4" cx="58" cy="-61" rx="27" ry="18.38"/>
+		<text transform="matrix(1 0 0 1 51 -57.4)" class="st5 st2 st3">v2</text>
+	</g>
+	<g id="node4">
+		<ellipse class="st4" cx="58" cy="-169" rx="27" ry="18.38"/>
+		<text transform="matrix(1 0 0 1 51 -165.4)" class="st5 st2 st3">v3</text>
+	</g>
+	<g id="node6">
+		<ellipse class="st6" cx="180" cy="-196" rx="27" ry="18.38"/>
+		<text transform="matrix(1 0 0 1 173 -192.4)" class="st7 st2 st3">h3</text>
+	</g>
+	<g id="edge16">
+		<path class="st8" d="M160.67-183.16c-22.84,15.17-60.62,40.25-83.43,55.39"/>
+	</g>
+	<g id="edge18">
+		<path class="st8" d="M166.01-180.51c-23.41,25.9-70.25,77.73-93.8,103.79"/>
+	</g>
+	<g id="edge20">
+		<path class="st8" d="M154.13-190.27c-20.7,4.58-49.6,10.98-70.29,15.56"/>
+	</g>
+	<g id="node7">
+		<ellipse class="st6" cx="180" cy="-142" rx="27" ry="18.38"/>
+		<text transform="matrix(1 0 0 1 173 -138.4)" class="st7 st2 st3">h4</text>
+	</g>
+	<g id="edge22">
+		<path class="st8" d="M154.13-136.27c-20.7,4.58-49.6,10.98-70.29,15.56"/>
+	</g>
+	<g id="edge24">
+		<path class="st8" d="M160.67-129.16C137.82-114,100.05-88.92,77.24-73.77"/>
+	</g>
+	<g id="edge26">
+		<path class="st8" d="M154.13-147.73c-20.7-4.58-49.6-10.98-70.29-15.56"/>
+	</g>
+	<g id="node8">
+		<ellipse class="st6" cx="180" cy="-88" rx="27" ry="18.38"/>
+		<text transform="matrix(1 0 0 1 173 -84.4)" class="st7 st2 st3">h1</text>
+	</g>
+	<g id="edge4">
+		<path class="st8" d="M154.13-93.73c-20.7-4.58-49.6-10.98-70.29-15.56"/>
+	</g>
+	<g id="edge6">
+		<path class="st8" d="M154.13-82.27c-20.7,4.58-49.6,10.98-70.29,15.56"/>
+	</g>
+	<g id="edge8">
+		<path class="st8" d="M160.67-100.83c-22.84-15.17-60.62-40.25-83.43-55.39"/>
+	</g>
+	<g id="node9">
+		<ellipse class="st6" cx="180" cy="-34" rx="27" ry="18.38"/>
+		<text transform="matrix(1 0 0 1 173 -30.4)" class="st7 st2 st3">h2</text>
+	</g>
+	<g id="edge10">
+		<path class="st8" d="M160.67-46.83C137.82-62,100.05-87.08,77.24-102.22"/>
+	</g>
+	<g id="edge12">
+		<path class="st8" d="M154.13-39.73c-20.7-4.58-49.6-10.98-70.29-15.56"/>
+	</g>
+	<g id="edge14">
+		<path class="st8" d="M166.01-49.49c-23.41-25.9-70.25-77.73-93.8-103.79"/>
+	</g>
+</g>
+</svg>
